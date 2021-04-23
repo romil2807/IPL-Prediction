@@ -1,7 +1,7 @@
 # IPL-Prediction
-Name - Bhavish Salia
+Name - Romil Shah
 Comps A
-Roll no - 1911047
+Roll no - 1911045
 Faculty Name - Vaibhav Sir
 College Name - KJSCE
 
